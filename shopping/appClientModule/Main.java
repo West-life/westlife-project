@@ -8,7 +8,7 @@ public class Main {
 	 * @see java.lang.Object#Object()
 	 */
 	public Main() {
-		System.out.println("asff");
+		System.out.println("的空间发挥出");
 	}
 
 }
